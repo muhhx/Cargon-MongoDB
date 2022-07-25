@@ -1,0 +1,4 @@
+- Poderia ter criado uma organização de pastas mais modularizadas, porém seria totalmente overkill. Preferi por colocar o unico middleware na pasta de utils e a interface do User na própria pasta de models
+- Adicionei validação
+- Email precisa ser único
+- Senha não será selecionada quando voce pedir pelos users
